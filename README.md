@@ -438,7 +438,7 @@ Publish the website in the given URL.
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2022 Developed by Dario George</footer></div>
+                Copyright &copy;2022 Developed by anbuselvam</footer></div>
             </div>
         </div>
     </body>
@@ -646,7 +646,7 @@ Publish the website in the given URL.
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2022 Developed by Dario George</footer></div>
+                Copyright &copy;2022 Developed by anbuselvam</footer></div>
             </div>
         </div>
     </body>
@@ -717,7 +717,7 @@ Publish the website in the given URL.
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2022 Developed by Dario George</footer></div>
+                Copyright &copy;2022 Developed by anbuselvam</footer></div>
             </div>
         </div>
     </body>
