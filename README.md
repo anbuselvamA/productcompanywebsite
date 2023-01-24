@@ -724,7 +724,8 @@ Publish the website in the given URL.
 </html>
 ```
 
-## OUTPUT:![212962293-ae0614dc-1ebc-42da-a7f0-fab2afc32142](https://user-images.githubusercontent.com/119559871/214375655-3d![212962354-3034be0d-3e3a-4d1d-a9a4-c6e61729db4e](https://user-images.githubusercontent.com/119559871/214375698-f344d244-6972-456a-b8c4-ed4e9abcf10c.png)
+## OUTPUT:
+![212962293-ae0614dc-1ebc-42da-a7f0-fab2afc32142](https://user-images.githubusercontent.com/119559871/214375655-3d![212962354-3034be0d-3e3a-4d1d-a9a4-c6e61729db4e](https://user-images.githubusercontent.com/119559871/214375698-f344d244-6972-456a-b8c4-ed4e9abcf10c.png)
 db3a17-e3ca-4ef2-bb7d-229d1fb4f60c.png)
 ![212962364-b9d0a2d0-eeef-4b94-ac8b-75d3a2d47c6d](https://user-images.githubusercontent.com/119559871/214375712-5263795e-09d0-47d1-bc9e-3ac33134444a.png)
 
